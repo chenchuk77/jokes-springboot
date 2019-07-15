@@ -1,4 +1,4 @@
-package com.kukinet.springboot.jokes;
+package com.kukinet.springboot.jokes.services;
 
 public interface JokesService {
     public String getJoke();

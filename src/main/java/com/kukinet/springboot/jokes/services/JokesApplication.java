@@ -1,6 +1,5 @@
-package com.kukinet.springboot.jokes;
+package com.kukinet.springboot.jokes.services;
 
-import guru.springframework.norris.chuck.ChuckNorrisQuotes;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
